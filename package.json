@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "styled-components": "^6.1.13"
+  },
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^5.0.2"
+  }
+}
